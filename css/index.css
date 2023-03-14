@@ -1,15 +1,11 @@
-
-.navbar {
-  width: 100%;
-  background-color: rgb(221, 221, 228) !important;
-  color: #000000;
+main{
+    width: 50px;
+    height: 50 px; 
+    border-style: solid;
+    border-color:  rgb(221, 221, 228);
+    border-radius: 1% ;
 }
-
-.container{
-    padding-left: 0;
-    padding-right: 0;
-    
-}
-#logo{
-    width: 40%;
-}
+#registro {
+    display: block;
+    margin: 0 auto;
+  }
