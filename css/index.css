@@ -5,7 +5,7 @@ main{
     border-color:  rgb(221, 221, 228);
     border-radius: 1% ;
 }
-#registro {
+#btnRegistro {
     display: block;
     margin: 0 auto;
   }
